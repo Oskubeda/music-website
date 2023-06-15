@@ -1,0 +1,27 @@
+.navbar {
+    background-color: aliceblue;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+.banner {
+    background-color: #4d4d4d;
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+}
+
+#small-albumart {
+    height: 100px;
+    width: 100px;
+}
